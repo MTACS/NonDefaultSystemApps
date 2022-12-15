@@ -7,9 +7,9 @@ FINALPACKAGE = 1
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = Unveil
+TWEAK_NAME = NonDefaultSystemApps
 
-Unveil_FILES = Unveil.m
-Unveil_CFLAGS = -fobjc-arc
+NonDefaultSystemApps_FILES = NonDefaultSystemApps.m
+NonDefaultSystemApps_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk

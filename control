@@ -1,9 +1,9 @@
-Package: com.mtac.unveil
-Name: Unveil
+Package: com.mtac.sbshownondefaultsystemapps
+Name: NonDefaultSystemApps
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Show non default System apps on SpringBoard
 Maintainer: MTAC
 Author: MTAC
-Section: Tweaks
+Section: Utilities
 Depends: mobilesubstrate (>= 0.9.5000)
